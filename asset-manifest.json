@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Click-Counter-ReactJS/static/css/main.1b0c28a0.chunk.css",
+    "main.js": "/Click-Counter-ReactJS/static/js/main.47ef23f7.chunk.js",
+    "main.js.map": "/Click-Counter-ReactJS/static/js/main.47ef23f7.chunk.js.map",
+    "runtime-main.js": "/Click-Counter-ReactJS/static/js/runtime-main.4fe9596b.js",
+    "runtime-main.js.map": "/Click-Counter-ReactJS/static/js/runtime-main.4fe9596b.js.map",
+    "static/js/2.e525a9db.chunk.js": "/Click-Counter-ReactJS/static/js/2.e525a9db.chunk.js",
+    "static/js/2.e525a9db.chunk.js.map": "/Click-Counter-ReactJS/static/js/2.e525a9db.chunk.js.map",
+    "index.html": "/Click-Counter-ReactJS/index.html",
+    "static/css/main.1b0c28a0.chunk.css.map": "/Click-Counter-ReactJS/static/css/main.1b0c28a0.chunk.css.map",
+    "static/js/2.e525a9db.chunk.js.LICENSE.txt": "/Click-Counter-ReactJS/static/js/2.e525a9db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fe9596b.js",
+    "static/js/2.e525a9db.chunk.js",
+    "static/css/main.1b0c28a0.chunk.css",
+    "static/js/main.47ef23f7.chunk.js"
+  ]
+}
