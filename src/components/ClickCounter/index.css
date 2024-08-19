@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'roboto';
+}
+
+.counter-head {
+  font-weight: 800;
+  color: #2d3a35;
+  font-size: 46px;
+}
+
+.counter-para {
+  color: #2d3a35;
+  font-size: 20px;
+}
+
+.counter-btn {
+  color: white;
+  background-color: #007bff;
+  border: 0;
+  border-radius: 8px;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.count {
+  color: #c20a72;
+}
